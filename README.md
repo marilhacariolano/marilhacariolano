@@ -37,5 +37,6 @@ Nesse momento estou estudando C++ e C#.
 
 Amo cozinhar 🍳 e conhecer lugares novos ✈️🌎
 
-<a href="https://www.linkedin.com/in/marilha-cariolano-770b37152/"><img src="https://github.com/marilhaseixas/marilhaseixas/linkedin.png" width="16"></img></a> [LinkedIn](https://www.linkedin.com/in/marilha-cariolano-770b37152/)
+<a href="https://www.linkedin.com/in/marilhaseixas"><img src="https://github.com/marilhaseixas/marilhaseixas/blob/main/linkedin.png" width="16"></img></a> [LinkedIn](https://www.linkedin.com/in/seu_usuário)  
 
+https://github.com/marilhaseixas/marilhaseixas/blob/main/linkedin.png
