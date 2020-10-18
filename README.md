@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 </center>  
   
   
-### 👋 Olá! Bem-vindo ao meu perfil! :)
+### 👋 Olá! Boas vindas!
 
 *****
 
