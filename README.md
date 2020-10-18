@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Capa do perfil](https://github.com/marilhaseixas/marilhaseixas/blob/main/Marilha%20Seixas%20(1).png)
+![Capa do perfil](https://github.com/marilhaseixas/marilhaseixas/blob/main/imagem_capa.png)
 
 
 <center>
