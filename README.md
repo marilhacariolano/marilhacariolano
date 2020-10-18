@@ -17,4 +17,25 @@ Here are some ideas to get you started:
 ![Capa do perfil](https://github.com/marilhaseixas/marilhaseixas/blob/main/Marilha%20Seixas%20(1).png)
 
 
-##### 👋 Bem-vindo ao meu perfil!
+<center>
+<table>
+    <tr>
+        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marilhaseixas&hide=html&layout=compact&theme=buefy" /></td>
+        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=marilhaseixas&theme=buefy"/></td>
+    </tr>   
+</table>
+</center>  
+  
+  
+
+### 👋 Olá! Bem-vindo ao meu perfil! :)
+
+
+Sou uma iniciante no mundo da programação, compartilhando aqui os meus aprendizados.
+Nesse momento estou estudando C++ e C#.
+
+
+Amo cozinhar 🍳 e conhecer lugares novos ✈️🌎
+
+<a href="https://www.linkedin.com/in/marilha-cariolano-770b37152/"><img src="https://github.com/marilhaseixas/marilhaseixas/linkedin.png" width="16"></img></a> [LinkedIn](https://www.linkedin.com/in/marilha-cariolano-770b37152/)
+
