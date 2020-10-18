@@ -14,11 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-## 👋 Bem-vindo ao meu perfil!
-
-
-
-
-
 ![Capa do perfil](https://github.com/marilhaseixas/marilhaseixas/blob/main/Marilha%20Seixas%20(1).png)
+
+
+##### 👋 Bem-vindo ao meu perfil!
