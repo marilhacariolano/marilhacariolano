@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **marilhaseixas/marilhaseixas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +13,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+## 👋 Bem-vindo ao meu perfil!
+
+
+
+
+
+![Capa do perfil](https://github.com/marilhaseixas/marilhaseixas/blob/main/Marilha%20Seixas%20(1).png)
