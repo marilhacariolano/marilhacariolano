@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 *****
 
 Sou uma iniciante no mundo da programação, compartilhando aqui os meus aprendizados.
-Nesse momento estou estudando C++ e C#.
+Nesse momento estou estudando C# e .NET.
 
 Amo cozinhar 🍳 e conhecer lugares novos ✈️🌎
 
