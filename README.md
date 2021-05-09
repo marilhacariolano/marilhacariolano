@@ -17,9 +17,9 @@
 
 👩‍💻 Sou uma iniciante no mundo da programação, compartilhando aqui os meus aprendizados.
 
-💻 Nesse momento estou estudando C# e .NET.
+💻 Já desenvolvi alguns projetos utilizando HTML, CSS JavaScript, Bootstrap, JQuery.
 
-Amo cozinhar 🍳 e conhecer lugares novos ✈️🌎
+Amo incentivar pessoas, cozinhar 🍳 e conhecer lugares novos ✈️🌎
 
 *****
 
