@@ -17,7 +17,7 @@
 
 👩‍💻 Sou uma iniciante no mundo da programação, compartilhando aqui os meus aprendizados.
 
-💻 Já desenvolvi alguns projetos utilizando HTML, CSS JavaScript, Bootstrap, JQuery.
+💻 Já desenvolvi alguns projetos utilizando HTML, CSS, JavaScript, Bootstrap, JQuery.
 
 Amo incentivar pessoas, cozinhar 🍳 e conhecer lugares novos ✈️🌎
 
