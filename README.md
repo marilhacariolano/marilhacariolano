@@ -1,4 +1,4 @@
-![Capa do perfil](https://github.com/marilhaseixas/marilhaseixas/blob/main/img_capa.png)
+![Capa do perfil](https://github.com/marilhaseixas/marilhaseixas/blob/main/imagem_capa.png)
 
 
 <center>
