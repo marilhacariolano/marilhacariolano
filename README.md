@@ -19,8 +19,6 @@
 
 💻 Já desenvolvi alguns projetos utilizando HTML, CSS, JavaScript, Bootstrap, JQuery.
 
-Amo incentivar pessoas, cozinhar 🍳 e conhecer lugares novos ✈️🌎
-
 *****
 
 Onde me encontrar? 🔍
