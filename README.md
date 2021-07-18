@@ -5,7 +5,7 @@ Eu sou a Marilha. Sou estudante de Sistemas para Internet e uma entusiasmada ini
 
 💻 tecnologias que já aprendi: HTML, CSS e JavaScript  
 👩‍💻 atualmente a estudar Node.js  
-🎉 curiosidades: amo gatinhos e por isso sou catsitter nas horas vagas :)  
+🎉 curiosidades: amo gatinhos e por isso sou catsitter nas horas vagas 🐱  
 
 *****
 
