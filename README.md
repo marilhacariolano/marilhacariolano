@@ -1,10 +1,10 @@
   
 Olá! Tudo bem?
 
-Eu sou a Marilha. Sou estudante de Sistemas para Internet e uma entusiasmada iniciante no mundo da programação. Aqui compartilho projetos e resultados de cursos que tenho feito. Eu adoro aprender coisas novas e incentivar pessoas!  
+Eu sou a Marilha. Sou estudante de Análise e Desenvolvimento de Sistemas e uma entusiasmada iniciante no mundo da programação. Aqui compartilho projetos e resultados de cursos que tenho feito. Eu adoro aprender coisas novas e incentivar pessoas!  
 
 💻 tecnologias que já aprendi: HTML, CSS e JavaScript  
-👩‍💻 atualmente a estudar Node.js  
+👩‍💻 atualmente a estudar Swift  
 🎉 curiosidades: amo gatinhos e por isso sou catsitter nas horas vagas 🐱  
 
 *****
